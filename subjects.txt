@@ -1,0 +1,13 @@
+physics
+chemistry
+math
+geometry
+arithmetic
+biology
+anatomy 
+english
+russian
+armenian
+informatics
+history
+literature
